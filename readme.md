@@ -38,17 +38,15 @@ The finished solution is a web application that takes an array of data and an ob
 
 #### Evaluation criteria 
 
-|  Evaluation criteria | Points |
-|---|---|
-|  **Technical assessment** | 180 |
-| The map displays all data |  55 |
-|  Map and timeline animation |  55 |
-|  Display and animation of statistical data |  35 |
-|  Player control (start, pause) |  35 |
-|  **Expert assessment** |  76 |
-|  Code quality |  76 |
-|  **Bonus points** |  128 |
-|  Selection of a point on the timeline with the correct display of data |  64 |
-|  Response map |  64 |
-
-##### My score is 329
+|  *Evaluation criteria* | *Points** | *Result* |
+|---|---|---|
+|  **Technical assessment** | **180** | **162** |
+| The map displays all data |  55 |  50 |
+|  Map and timeline animation |  55 | 48 |
+|  Display and animation of statistical data |  35 | 35 |
+|  Player control (start, pause) |  35 | 29 |
+|  **Expert assessment** |  **76** | **60** |
+|  Code quality |  76 | 60 |
+|  **Bonus points** |  128 | **104** |
+|  Selection of a point on the timeline with the correct display of data |  64 | 50 |
+|  **Result** |  | 329 |
