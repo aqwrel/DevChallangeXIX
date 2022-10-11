@@ -38,7 +38,7 @@ The finished solution is a web application that takes an array of data and an ob
 
 #### Evaluation criteria 
 
-|  *Evaluation criteria* | *Points** | *Result* |
+|  *Evaluation criteria* | *Points* | *Result* |
 |---|---|---|
 |  **Technical assessment** | **180** | **162** |
 | The map displays all data |  55 |  50 |
@@ -49,4 +49,5 @@ The finished solution is a web application that takes an array of data and an ob
 |  Code quality |  76 | 60 |
 |  **Bonus points** |  128 | **104** |
 |  Selection of a point on the timeline with the correct display of data |  64 | 50 |
+|  Response map |  64 | 54 |
 |  **Result** |  | 329 |
