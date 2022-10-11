@@ -2,6 +2,9 @@
 
 # Online Round Task. Frontend | DEV Challenge XIX
 
+[Watch the result](https://devchallenge-aqwrel.vercel.app/)
+https://devchallenge-aqwrel.vercel.app/
+
 ## Task description
 
 Since 2014, the [Center for Civil Liberties](https://ccl.org.ua/en/about-the-ccl/)  has been helping to protect people's rights and release from prison military prisoners, including civilians, soldiers who defended their land, and political prisoners who opposed Putin.
@@ -31,3 +34,20 @@ Statistical data need to be splitted by  affected_type. Translates for types you
 
 ![map](https://raw.githubusercontent.com/aqwrel/DevChallangeXIX/main/assets/readmeMap.png)
 The finished solution is a web application that takes an array of data and an object with translates as input, and outputs a map with animation controls.
+
+#### Evaluation criteria 
+
+|  Evaluation criteria | Points |
+|---|---|
+|  **Technical assessment** | 180 |
+| The map displays all data |  55 |
+|  Map and timeline animation |  55 |
+|  Display and animation of statistical data |  35 |
+|  Player control (start, pause) |  35 |
+|  **Expert assessment** |  76 |
+|  Code quality |  76 |
+|  **Bonus points** |  128 |
+|  Selection of a point on the timeline with the correct display of data |  64 |
+|  Response map |  64 |
+
+##### My score is 329
